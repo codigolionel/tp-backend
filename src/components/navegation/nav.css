@@ -1,0 +1,18 @@
+.navegation{
+    width: 100%;
+    display: flex;
+    margin:44px;
+}
+.navegation logo{
+    border-radius: 15px;
+}
+.navegation img {
+    width: 40px;
+    padding: 0; 
+}
+
+h2{ 
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
